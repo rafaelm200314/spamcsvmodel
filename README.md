@@ -33,8 +33,7 @@ Then open your browser and go to http://localhost:8501
 https://rafaelm200314-spamcsvmodel-app-m3lsyb.streamlit.app/
 
 📸 Screenshot
-![App Screenshot](screenshot1.png)
-
+img/screenshot1.png
 📊 Dataset
 
 This app uses the SMS Spam Collection Dataset, which contains 5,574 labeled SMS messages (spam or ham).
